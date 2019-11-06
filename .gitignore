@@ -57,6 +57,11 @@ freeline.py
 freeline/
 freeline_project_description.json
 
+# other
+target
+.classpath
+.DS_Store
+
 # fastlane
 fastlane/report.xml
 fastlane/Preview.html
